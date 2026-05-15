@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-title: "Documentation Bootcamp Portfolio"
+title: "Documentation Bootcamp"
 ---
 
-# Documentation Bootcamp Portfolio
+# Documentation Bootcamp
 
 Welcome! This is a documentation portfolio built during a technical writing bootcamp. It showcases two key deliverables: an API reference and a hands-on tutorial.
 
