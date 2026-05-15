@@ -13,7 +13,7 @@ const config = {
   },
 
   url: 'https://marvelken.github.io',
-  baseUrl: '/docs-bootcamp-site/',
+  baseUrl: '/',
 
   organizationName: 'marvelken',
   projectName: 'docs-bootcamp-site',
